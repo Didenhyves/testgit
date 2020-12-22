@@ -1,0 +1,65 @@
+1) Choisir une race, une origine. 
+
+ Humain : 1d6 or en plus | Une Arme en acier incassable
+
+  -Conglomérat : Marchandage | Jeu | Canotage
+  -l'Empire : Intimidation | Discretion | Endurance | Vue
+
+ Semi-Homme : Des plantes hallucinogène | Un jeu de carte | Instrument de musique 
+
+  -Fermier : Vie en nature | Endurance | Brasserie
+  -Citadin : Alcoolique | Escamotage | Mentir | Jeu
+
+ Nain : Armure en maille | Pioche d6
+
+  -Montagne : Endurance | Forge | Prouesse de Force | Ingé
+  -Exterieur : Empathie | Conduire d'attelage | 1d6 pièces
+
+ Elfe : Un arc d6 | Outil d'artisan 
+
+  -Foret : Survie en nature | Acrobatie | Dressage 
+  -Citadin : Etiquette | Séduction | Connaissances  
+
+ Homme Lézard : Une arme Homme Lézard qui coute 1d6 moins cher | Des contacts dans chaques capitales
+
+  -Marchand : Marchandage | Evaluation
+  -Guerrier : Prouesse de Force | Odorat
+  -Prêtre : Religion | Connaissances | Béni
+  -Fermier : Dressage | Endurance | Equitation
+  -Artisans : Artisanat | Ingénierie | Lire & écrire
+
+2) Choisir un Titan :
+
+Humains : Principalement Edon
+Nains : Principalement Gehm
+Elfes : Principalement Mahony
+Semis-Hommes : Principalement Edon 
+Cuetzatls : A 99.9% Zorvos
+ !! Ne pas jouer Zorvos en Cuetzatls, c'est jouer un marginal peu apprecié !!
+ !! Vénerer Scalder est très mal vu à cause des cultistes, mais pas interdit; à vous de voir ce que vous en faites !!
+
+
+3) Définir ses statistiques : 
+350 points à répartir
+75 maximum, 30 minimum
+Force
+Agilité
+Intelligence
+Constitution
+Charisme
+Perception
+Chance
+
+4) Choisir un historique & appliquer les bonus 
+
+5) Définir les points de vie : 10 + dizaine de la constitution
+
+6) Définir le nombre de sorts possibles : Dizaine de la stat de Chance
+
+7) Choisir une compétence
+
+8) Choisir les équipements :
+
+ Armes : d4, d6 ou d8.
+ Armures : cuir (1 armure), maille (2 armure), plaque  (3 armure).
+ 5d6 d'or, chaque tier d'arme ou d'armure retire 1d
